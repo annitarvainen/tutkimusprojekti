@@ -1,0 +1,9 @@
+Oppimispäiväkirja
+5.6. Ensimmäinen työpäivä, byrokratiaa, avainten hakua yms. koko päivä.
+8.6. Tutkimussuunnitelman aloitus ja hyperspektrikuvauksen opiskelua.
+9.6. Gitin kanssa taistelua. Päädyin GitHubiin koska GitLab kiukutteli liikaa. Lisää spektrikuvauksen opiskelua ja tutkimussuunnitelman tekoa.
+10.6. Pythonin ja notebookkien kanssa taistelua. Kuvien käsittelyn harjoittelua Pythonissa.
+11.6. Oppimispäiväkirjan aloitus. Pythonilla leikkimistä ja harjoittelua. Projektin tavoitteen tarkennusta. Jonkunlaiset yhteydet laskentapalvelimiin.
+12.6. Tutkimussuunnitelman viimeistelyä. Laskentapalvelinten käytön opettelu.
+15.6. Python-ympäristön kasaaminen laskentapalvelimelle. Spektrikuvien ja niiden tietojen etsiminen.
+16.6. Koodin aloittelua.
