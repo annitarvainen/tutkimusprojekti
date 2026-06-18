@@ -7,3 +7,5 @@ Oppimispäiväkirja
 12.6. Tutkimussuunnitelman viimeistelyä. Laskentapalvelinten käytön opettelu.
 15.6. Python-ympäristön kasaaminen laskentapalvelimelle. Spektrikuvien ja niiden tietojen etsiminen.
 16.6. Koodin aloittelua.
+17.6. GitHub pystyyn. Seminaari. Lisää koodia.
+18.6. Tutkimussuunnitelman palautus. Spektrikuvien kansiorakenteen kuvaus.
