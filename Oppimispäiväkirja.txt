@@ -9,3 +9,5 @@ Oppimispäiväkirja
 16.6. Koodin aloittelua.
 17.6. GitHub pystyyn. Seminaari. Lisää koodia.
 18.6. Tutkimussuunnitelman palautus. Spektrikuvien kansiorakenteen kuvaus.
+22.6. Hyperspektrikuvien pikselien arvojen pyörittelyä.
+23.6.
