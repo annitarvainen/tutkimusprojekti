@@ -11,3 +11,4 @@ Oppimispäiväkirja
 18.6. Tutkimussuunnitelman palautus. Spektrikuvien kansiorakenteen kuvaus.
 22.6. Hyperspektrikuvien pikselien arvojen pyörittelyä.
 23.6. Löytyi artikkeli joka tekee tasan saman asian kuin tämä projekti: https://www.sciencedirect.com/science/article/pii/S0023643826004718#appsec1.
+24.6. Lähdetään koodissa hyödyntämään löytynyttä artikkelia. Koodin järjestelyä ja siivoilua.
