@@ -13,3 +13,4 @@ Oppimispäiväkirja
 23.6. Löytyi artikkeli joka tekee tasan saman asian kuin tämä projekti: https://www.sciencedirect.com/science/article/pii/S0023643826004718#appsec1.
 24.6. Lähdetään koodissa hyödyntämään löytynyttä artikkelia. Koodin järjestelyä ja siivoilua.
 25.6. Kuvien esittämismahdollisuuksien etsiminen. Vaikeaa toteuttaa etäpalvelimella. https://www.sciencedirect.com/science/article/pii/S0023643826004718#appsec1 koodin tutkiminen.
+26.6. Kuvakansioiden polkujen haku taulukkoon. Koodin järjestelyä ja siivoilua.
