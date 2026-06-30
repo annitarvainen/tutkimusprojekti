@@ -15,3 +15,4 @@ Oppimispäiväkirja
 25.6. Kuvien esittämismahdollisuuksien etsiminen. Vaikeaa toteuttaa etäpalvelimella. https://www.sciencedirect.com/science/article/pii/S0023643826004718#appsec1 koodin tutkiminen.
 26.6. Kuvakansioiden polkujen haku taulukkoon. Koodin järjestelyä ja siivoilua.
 29.6. Tiedostojen polkujen keräys ja kuvien haku niiden perusteella. Maskit kaikkiin kuviin.
+30.6. Maskien luonnin tutkimista, deblurrauksen tutkimista, spektrien tutkimista, MSC:n lisäys koodiin.
