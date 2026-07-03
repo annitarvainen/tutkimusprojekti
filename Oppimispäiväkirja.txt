@@ -17,3 +17,5 @@ Oppimispäiväkirja
 29.6. Tiedostojen polkujen keräys ja kuvien haku niiden perusteella. Maskit kaikkiin kuviin.
 30.6. Maskien luonnin tutkimista, deblurrauksen tutkimista, spektrien tutkimista, MSC:n lisäys koodiin.
 1.7. Segmentoinnin ja maskien luonnin tutkimista.
+2.7. Eri taajuksien testausta maskin luonnissa, eri segmentointimenetelmien etsimistä.
+3.7. Rajataan toistaiseksi ulos kitchenday2 ja sekoitteet.
