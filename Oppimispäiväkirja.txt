@@ -19,3 +19,4 @@ Oppimispäiväkirja
 1.7. Segmentoinnin ja maskien luonnin tutkimista.
 2.7. Eri taajuksien testausta maskin luonnissa, eri segmentointimenetelmien etsimistä.
 3.7. Rajataan toistaiseksi ulos kitchenday2 ja sekoitteet.
+6.7. Projektin edistymisen hahmottaminen.
