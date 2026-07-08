@@ -20,3 +20,4 @@ Oppimispäiväkirja
 2.7. Eri taajuksien testausta maskin luonnissa, eri segmentointimenetelmien etsimistä.
 3.7. Rajataan toistaiseksi ulos kitchenday2 ja sekoitteet.
 6.7. Projektin edistymisen hahmottaminen.
+7.7. Pikseleiden sampling, ensimmäinen lineaariregressioyritys.
