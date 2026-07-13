@@ -23,3 +23,5 @@ Oppimispäiväkirja
 7.7. Pikseleiden sampling, ensimmäinen lineaariregressioyritys.
 8.7. Otetaan kitchenday2 taas käyttöön, rajaten jälleen ulos sekoitteet. Testaillaan joitain koneoppimismalleja.
 9.7. Kuvaaja pikseleiden keskiarvoisista spektreistä.
+10.7. Valon aallonpituuksien lisäys kuvaajaan, värien ja aallonpituuksien tutkimista.
+13.7. Frame-by-frame-toteutuksen ratkomista, kaavioiden tutkimista.
