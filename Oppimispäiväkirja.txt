@@ -25,3 +25,4 @@ Oppimispäiväkirja
 9.7. Kuvaaja pikseleiden keskiarvoisista spektreistä.
 10.7. Valon aallonpituuksien lisäys kuvaajaan, värien ja aallonpituuksien tutkimista.
 13.7. Frame-by-frame-toteutuksen ratkomista, kaavioiden tutkimista.
+14.7. Frame-by-frame-toteutus toimii joten kuten, ulkonäön siistimistä ja asettelun testailua.
