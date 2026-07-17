@@ -27,3 +27,5 @@ Oppimispäiväkirja
 13.7. Frame-by-frame-toteutuksen ratkomista, kaavioiden tutkimista.
 14.7. Frame-by-frame-toteutus toimii joten kuten, ulkonäön siistimistä ja asettelun testailua.
 15.7. Infotekstit-tiedoston edistämistä.
+16.7. Kuvaajien lisäystä ja muokkausta infotekstit-tiedostoon. Sähkökatko.
+17.7. Sähkökatkon takia laskentapalvelimet down.
