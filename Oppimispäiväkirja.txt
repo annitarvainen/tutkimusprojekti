@@ -30,3 +30,6 @@ Oppimispäiväkirja
 16.7. Kuvaajien lisäystä ja muokkausta infotekstit-tiedostoon. Sähkökatko.
 17.7. Sähkökatkon takia laskentapalvelimet down.
 20.7. Laplacianin tutkimista, jakauman lisäys keskiarvospektrien kuvaajaan.
+21.7. Hyperspektrikuvien esittämisen tutkimista, HyperSpy ei näköjään toimi .hdr-formaatilla.
+22.7. Logistisella regressiomallilla leikkimistä.
+23.7. Logistisella regressiomallilla leikkimistä. Pisin ajo kesti yli 85 minuuttia.
