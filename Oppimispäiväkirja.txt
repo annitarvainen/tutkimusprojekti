@@ -33,3 +33,4 @@ Oppimispäiväkirja
 21.7. Hyperspektrikuvien esittämisen tutkimista, HyperSpy ei näköjään toimi .hdr-formaatilla.
 22.7. Logistisella regressiomallilla leikkimistä.
 23.7. Logistisella regressiomallilla leikkimistä. Pisin ajo kesti yli 85 minuuttia.
+24.7. KNN- ja SVC-metodien testailua ja optimointia.
