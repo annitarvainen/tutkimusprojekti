@@ -34,3 +34,6 @@ Oppimispäiväkirja
 22.7. Logistisella regressiomallilla leikkimistä.
 23.7. Logistisella regressiomallilla leikkimistä. Pisin ajo kesti yli 85 minuuttia.
 24.7. KNN- ja SVC-metodien testailua ja optimointia.
+27.7. Random Forest -testailua, koodin optimointi vei koko päivän ja jäi juoksemaan yöksi.
+28.7. Ilman kiinteää LAN-yhteyttä, yhteys laskentapalvelimiin katkesi kesken kaiken jossain vaiheessa yötä. Yritetään uudelleen pienemmällä määrällä attribuutteja. Kiinteä LAN ei toimi.
+29.7. Lisää testailua muilla luokittelijoilla. Neuroverkon aloitus.
