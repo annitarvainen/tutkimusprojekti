@@ -37,3 +37,5 @@ Oppimispäiväkirja
 27.7. Random Forest -testailua, koodin optimointi vei koko päivän ja jäi juoksemaan yöksi.
 28.7. Ilman kiinteää LAN-yhteyttä, yhteys laskentapalvelimiin katkesi kesken kaiken jossain vaiheessa yötä. Yritetään uudelleen pienemmällä määrällä attribuutteja. Kiinteä LAN ei toimi.
 29.7. Lisää testailua muilla luokittelijoilla. Neuroverkon aloitus.
+30.7. Neuroverkon rassaamista. Mallin sovittaminen toimii nyt ilman erroria, oli jotain vikaan X:n ja y:n muodoissa.
+31.7. Eka neuroverkko toimii nyt ja vielä hyvällä tarkuudella.
