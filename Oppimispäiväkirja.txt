@@ -39,3 +39,6 @@ Oppimispäiväkirja
 29.7. Lisää testailua muilla luokittelijoilla. Neuroverkon aloitus.
 30.7. Neuroverkon rassaamista. Mallin sovittaminen toimii nyt ilman erroria, oli jotain vikaan X:n ja y:n muodoissa.
 31.7. Eka neuroverkko toimii nyt ja vielä hyvällä tarkuudella.
+3.8. Neuroverkon testailua.
+4.8. Neuroverkon testailua.
+5.8. Kommentointia.
