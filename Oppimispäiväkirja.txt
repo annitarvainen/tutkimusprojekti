@@ -43,3 +43,4 @@ Oppimispäiväkirja
 4.8. Neuroverkon testailua.
 5.8. Kommentointia.
 6.8. Projekti_infotekstit muokkausta.
+7.8. Projekti_infotekstit muokkausta ja kommentointia.
