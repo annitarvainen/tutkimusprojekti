@@ -47,3 +47,6 @@ Oppimispäiväkirja
 10.8. SGD
 11.8. SGD
 12.8. Infon kasaamista.
+13.8. Koneoppimismallien selvittelyä.
+14.8. Koneoppimismallien selvittelyä https://www.sciencedirect.com/science/article/pii/S0023643826004718#appsec1 avulla.
+17.8. Projekti_infotekstit muokkausta, confusion matrix.
