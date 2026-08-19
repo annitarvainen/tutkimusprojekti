@@ -50,3 +50,5 @@ Oppimispäiväkirja
 13.8. Koneoppimismallien selvittelyä.
 14.8. Koneoppimismallien selvittelyä https://www.sciencedirect.com/science/article/pii/S0023643826004718#appsec1 avulla.
 17.8. Projekti_infotekstit muokkausta, confusion matrix.
+18.8. Etäpäivä. Apufunktioiden muokkausta ja kommentointia.
+19.8. Apufunktioiden muokkausta. Projektin tarkistaminen.
