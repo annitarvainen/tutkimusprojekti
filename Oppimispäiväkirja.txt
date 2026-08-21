@@ -52,3 +52,5 @@ Oppimispäiväkirja
 17.8. Projekti_infotekstit muokkausta, confusion matrix.
 18.8. Etäpäivä. Apufunktioiden muokkausta ja kommentointia.
 19.8. Apufunktioiden muokkausta. Projektin tarkistaminen.
+20.8. Kommentointia. Kuvaajien lisäystä. Projektiraportin aloittelua.
+21.8. Projektiraportin jatkoa. Mallien tallennus.
