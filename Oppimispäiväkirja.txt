@@ -54,3 +54,5 @@ Oppimispäiväkirja
 19.8. Apufunktioiden muokkausta. Projektin tarkistaminen.
 20.8. Kommentointia. Kuvaajien lisäystä. Projektiraportin aloittelua.
 21.8. Projektiraportin jatkoa. Mallien tallennus.
+24.8. Koneoppimismallien lataus .pkl-tiedostoista.
+25.8. Lisää infotekstiä. Koneoppimismallien vastemuuttujien ja muiden kuvaajat.
