@@ -56,3 +56,8 @@ Oppimispäiväkirja
 21.8. Projektiraportin jatkoa. Mallien tallennus.
 24.8. Koneoppimismallien lataus .pkl-tiedostoista.
 25.8. Lisää infotekstiä. Koneoppimismallien vastemuuttujien ja muiden kuvaajat.
+26.8. Oppimispäiväkirjan puhtaaksikirjoitusta.
+27.8. Oppimispäiväkirjan puhtaaksikirjoitusta.
+28.8. Koneoppimismallien testausta sekoituksiin.
+LOMA
+8.9. Lomalla tajusin, että StandardScaleriä täytyy käyttää sekoituksiin. Raportin kirjoittelua.
